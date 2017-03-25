@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/csu/client/LoginActivity.java=GBK
+encoding//src/com/csu/client/MainActivity.java=UTF-8
+encoding//src/com/csu/service/MainService.java=UTF-8
+encoding//src/com/csu/util/StreamUtils.java=UTF-8
+encoding//src/com/csu/util/TransCoding.java=UTF-8
+encoding//src/com/test/chat/ChatMessage.java=UTF-8
+encoding//src/com/test/chat/ChatMessageListAdapter.java=UTF-8
+encoding//src/com/test/chat/Expression.java=UTF-8
+encoding//src/com/test/chat/ExpressionImageAdapter.java=UTF-8
